@@ -1,5 +1,4 @@
 # illustra.AI
-Demo video: https://streamable.com/0lknk8
 
 illustra.AI is a full stack MERN web application that combines the power of OpenAI's DALL-E with modern web technologies to generate AI-powered images based on user prompts. Primarily written in JavaScript, with some CSS and HTML, the project offers an interactive user experience where users can create and explore AI-generated artwork.
 
@@ -10,3 +9,5 @@ The Create Image page, accessible via the top-right 'Create' button, invites use
 Once an image is generated, it is automatically uploaded to the Community Gallery for others to view and download. The backend of this project uses MongoDB for data storage, Node.js and Express for server-side operations, and Cloudinary for storing images. The frontend is built with React.js and styled with Tailwind CSS to create a responsive and user-friendly interface. Additionally, Vite is used for building the project locally, providing an efficient development environment.
 
 illustra.AI showcases the seamless integration of modern full stack technologies and AI, providing users with an intuitive platform to unleash their creativity and share their creations with the community.
+
+Demo video: https://streamable.com/0lknk8
