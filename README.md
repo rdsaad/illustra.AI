@@ -1,6 +1,6 @@
 # illustra.AI
 
-Demo video: https://streamable.com/0lknk8a
+Demo video: https://streamable.com/0lknk8
 
 illustra.AI is a full stack MERN web application that combines the power of OpenAI's DALL-E with modern web technologies to generate AI-powered images based on user prompts. Primarily written in JavaScript, with some CSS and HTML, the project offers an interactive user experience where users can create and explore AI-generated artwork.
 
